@@ -1,28 +1,13 @@
-# This is a large heading
+# Kelly Christus
 
-## This is a smaller heading
+### Geography
+I reside within the United States.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
+Three of my favorite books are:
+- *Dune* by Frank Herbert
+- *Magician: Apprentice* by Raymond E. Feist
+- *The Andromeda Strain* by Michael Crichton
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.]
+### Contact
+The best way to get in touch with me is [on Facebook](https://facebook.com/kyraxius.majoris).
